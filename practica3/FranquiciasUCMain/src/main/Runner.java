@@ -4,7 +4,6 @@
  * Clase principal que construye la aplicaci�n de tres capas y lanza su ejecuci�n
  */
 public class Runner {
-saadadsa
 	public static void main(String[] args) {
 		// Crear componentes capa DAO
 		TiendasDAO tiendasDAO = new TiendasDAO();
